@@ -60,7 +60,9 @@ En el panel **Ejecutar** introduzca los siguientes valores:
 | Periodicidad | 12 | Mensual: 12, Bimestral: 6, Trimestral: 4, Cuatrimestral: 3, Anual: 1 |
 | Primer pago | 1 | El periodo en el que se hará el primer pago, es decir, el mes 1 |
 
-Al dar clic en el botón **`Ejecutar`** se creará la tabla de amortización cuyos resultados se observan en la imagen del principio.
+Al dar clic en el botón **`Ejecutar`** se creará la tabla de amortización.
+
+![GIF Excel](https://user-images.githubusercontent.com/65678421/82718826-a06a2a00-9c6a-11ea-8aaa-63c104a6cebd.gif)
 
 ---
 
