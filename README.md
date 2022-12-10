@@ -65,5 +65,3 @@ Al dar clic en el botón **`Ejecutar`** se creará la tabla de amortización.
 ![GIF Excel](https://user-images.githubusercontent.com/65678421/82718826-a06a2a00-9c6a-11ea-8aaa-63c104a6cebd.gif)
 
 ---
-
-© **Yair Testas** \| Financial & Tax Technology
